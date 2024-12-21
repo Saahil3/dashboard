@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { OrderData } from "../../../types/dashboard";
 
 interface OrdersTableProps {

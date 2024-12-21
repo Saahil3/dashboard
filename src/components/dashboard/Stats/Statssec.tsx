@@ -1,4 +1,3 @@
-import React from "react";
 import StatsCard from "./Statscard.tsx";
 
 const Statssec = () => {

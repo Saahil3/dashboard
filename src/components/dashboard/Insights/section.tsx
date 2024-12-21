@@ -1,4 +1,3 @@
-import React from "react";
 
 import Chart1 from './chartscard/chart1';
 import Card from './chartscard/forecast';

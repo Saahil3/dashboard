@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 // Reusable SidebarIcon component
 const SidebarIcon = ({ id, isActive, handleClick, svgPath }) => (
